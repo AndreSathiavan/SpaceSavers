@@ -11,6 +11,7 @@ var alienLaser, alienLaserImg;
 var alienLaser_group;
 var gameState = -1;
 var backgroundImg2;
+var backgroundImg;
 var restart, restartImg;
 var explosion, explosionImg;
 var explosion2, explosionImg2;
